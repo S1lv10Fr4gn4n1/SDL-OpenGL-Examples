@@ -1,5 +1,5 @@
-# SDLExamples
-Just a project to put SDL2 stuffs together and learn something
+# SDL-OpenGL-Examples
+Just a project to put SDL2 and OpenGL stuffs together and learn something
 
 # Game Loop
 http://gafferongames.com/game-physics/fix-your-timestep/
